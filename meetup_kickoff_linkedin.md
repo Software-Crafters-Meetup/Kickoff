@@ -1,31 +1,9 @@
-💼 LinkedIn-Post: Einladung Kickoff
+Schon lange lässt mich der Gedanke nicht los, eine **Community of Practice rund um Software Craftsmanship** zu gründen. Jetzt ist es so weit: Ich wage den ersten Schritt – mit der grossartigen Unterstützung der **OST**, insbesondere Mirko Stocker und Raphael Das Gupta.
 
-✨ Neu: Community of Practice für Software Craftsmanship
+Danke an alle, die bereits Teil davon sind, unterstützen oder den Link weitertragen 🙏
+Ich freue mich riesig auf das erste Zusammenkommen und darauf, gemeinsam das Fundament für unsere Community zu legen.
 
-Wir wollen mehr als funktionierende Software.
-Wir wollen gute Software – verantwortungsvoll, nachhaltig, offen.
+👥 **Für alle, die Software nicht nur funktionieren lassen, sondern gestalten wollen.**
+💡 Offen, verantwortungsvoll, neugierig.
 
-Deshalb starten wir eine Community of Practice:
-
-🤝 Was ist das?
-Eine Gruppe von Menschen, die sich regelmässig trifft, um gemeinsam besser zu werden – durch Austausch, gemeinsame Übungen und gegenseitige Inspiration.
-
-🗓️ Kickoff Meetup
-[Datum, Uhrzeit, Ort/Link]
-
-💡 Was erwartet dich?
-
-    Gemeinsames Kennenlernen
-
-    Vision & Ziele klären
-
-    Formate und Themen sammeln
-
-    Erste Schritte planen
-
-👉 Mach mit!
-Wenn du Software nicht nur «funktional» sondern «gut» gestalten willst, freuen wir uns auf dich.
-
-➡️ [Meetup-Link]
-
-#SoftwareCraftsmanship #CommunityOfPractice #CleanCode #OpenSource #Nachhaltigkeit #EthikInDerIT #Meetup
+Und weil das hier nicht ohne geht: `communityOfPractice = \devs -> growTogether devs`
