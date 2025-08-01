@@ -1,4 +1,4 @@
-# 🚀 Kickoff: Community of Practice für Software Craftsmanship
+# 🚀 Kickoff: Community of Practice für Software Crafters
 
 Software mit Sinn: Entwickelst du mehr als nur Code?
 
@@ -42,7 +42,7 @@ Willkommen sind alle, die über ihre tägliche Arbeit hinausdenken und Software 
 ➡️ [Meetup-Link]
 
 **Aktuelle Kanäle:**
-📚 Informationen: [GitHub](https://github.com/Software-Craftsmanship-Meetup/Kickoff/tree/main)
-💬 Kommunikation: [Matrix](https://matrix.to/#/#Software-Craftsmanship-Meetup:matrix.org) oder auf dem Meetup
+📚 Informationen: [GitHub](https://github.com/Software-Crafters-Meetup/Kickoff/tree/main)
+💬 Kommunikation: [Matrix](https://matrix.to/#/#Software-Crafters-Meetup:matrix.org) oder auf dem Meetup
 
 Choosen Topics: #Software Developing, #Software Craftsmanship, #Clean Code, #Ethics, #Community Building

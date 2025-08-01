@@ -1,4 +1,4 @@
-# Software Craftsmanship Meetup: Guter Code. Gutes Handwerk. Gutes Gewissen.
+# Software Crafters Meetup: Guter Code. Gutes Handwerk. Gutes Gewissen
 
 Du entwickelst Software – und willst mehr als nur funktionierenden Code? Du möchtest **sauberes Design**, **verantwortungsbewusstes Handeln**, **nachhaltige Lösungen** und **digitale Souveränität** mit Leben füllen?
 
@@ -8,9 +8,9 @@ Dann ist dieses Meetup genau das Richtige für dich.
 
 Im Alltag bleibt oft wenig Raum für die Themen, die uns eigentlich wichtig sind: neue Tools oder Sprachen ausprobieren, mit Gleichgesinnten diskutieren, über den eigenen Code hinausdenken.
 
-**Software Craftsmanship** steht für das ständige Streben nach besserer Software – technisch, aber auch menschlich: **ethisch, offen, verantwortungsvoll und nachhaltig.**
+**Software Crafters** steht für das ständige Streben nach besserer Software – technisch, aber auch menschlich: **ethisch, offen, verantwortungsvoll und nachhaltig.**
 
-## Was dich erwartet:
+## Was dich erwartet
 
 - **Lightning Talks (freiwillig)**: Kurze Inputs zu Clean Code, Testing, Open Source, neue Sprachen, Tools oder auch ethische Fragestellungen.
 - **Mob Programming**: Gemeinsam als Gruppe ein Problem lösen – kollaborativ, transparent, lernend.
@@ -18,7 +18,7 @@ Im Alltag bleibt oft wenig Raum für die Themen, die uns eigentlich wichtig sind
 - **Open Space Diskussionen**: Über Themen wie Nachhaltigkeit in der Softwareentwicklung, Datenhoheit, Open Source oder Verantwortung im Berufsalltag.
 - **Crafting Kata**: Praxisübung in kleinen Gruppen (bitte Laptop mitbringen).
 
-## Werte, die uns wichtig sind:
+## Werte, die uns wichtig sind
 
 - **Nachhaltigkeit**: Technisch und gesellschaftlich.
 - **Verantwortung**: Für Code, Teams, Nutzer:innen.
@@ -30,17 +30,17 @@ Im Alltag bleibt oft wenig Raum für die Themen, die uns eigentlich wichtig sind
 
 Für alle Softwareentwickler:innen, die über Tools, Tests und Typen hinausdenken – und Software als Teil einer lebenswerten digitalen Zukunft verstehen.
 
-## Mitbringen:
+## Mitbringen
 
-- Laptop (optional, aber ideal für Übungen und Demos)  
-- Offenheit, Neugier und eigene Themen  
+- Laptop (optional, aber ideal für Übungen und Demos)
+- Offenheit, Neugier und eigene Themen
 - Gerne Tools, Ideen oder ethische Dilemmata aus deinem Alltag
 
-## Wann und Wo:
+## Wann und Wo
 
 [Datum], [Uhrzeit]  
 [Ort / Online-Link]
 
-## Anmeldung:
+## Anmeldung
 
 [Meetup-Link / Anmeldeformular]

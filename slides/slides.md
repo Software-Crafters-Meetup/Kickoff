@@ -3,7 +3,7 @@ marp: true
 theme: custom-theme
 ---
 
-# Software Craftsmanship Meetup
+# Software Crafters Meetup
 
 ## Guter Code. Gutes Handwerk. Gutes Gewissen
 
@@ -49,7 +49,7 @@ Ziel ist es, dass wir alle voneinander lernen und mit einem guten Gefühl nach H
 
 ---
 
-✨ Neu: Software Craftsmanship Community of Practice
+✨ Neu: Software Crafters Community of Practice
 
 Wir wollen mehr als funktionierende Software – wir wollen gute Software, verantwortungsvoll entwickelt.
 
@@ -67,7 +67,7 @@ Wir wollen mehr als funktionierende Software – wir wollen gute Software, veran
 Bring deine Ideen, Tools oder ethischen Fragen mit.
 Melde dich hier an: [Link]
 
-<!-- # SoftwareCraftsmanship #CommunityOfPractice #CleanCode #OpenSource #Nachhaltigkeit #EthikInDerIT -->
+<!-- # SoftwareCraftsmanship #SoftwareCrafters #CommunityOfPractice #CleanCode #OpenSource #Nachhaltigkeit #EthikInDerIT -->
 
 ---
 
