@@ -99,7 +99,7 @@ Gemeinsam gestalten, lernen und wachsen.
 - Online, vor Ort, hybrid?
 - Wie kommunizieren wir (Matrix, Mastodon, Meetup, GitLab)?
 - Wer übernimmt welche Rollen?
-- Wo werden Themas gsammelt?
+- Wo werden Themas gesammelt?
 - Feedback & Anpassungen?
 
 ---
@@ -120,7 +120,6 @@ Gemeinsam gestalten, lernen und wachsen.
 
 - Welche Formate motivieren uns?  
   (⚡ Lightning Talks, 💻 Katas, 👥 Mob Programming, 💬 Diskussionen)
-- Was wäre ein guter Startinhalt?
 
 ---
 
@@ -129,6 +128,7 @@ Gemeinsam gestalten, lernen und wachsen.
 📝 **Fragen:**
 
 - Welche Themen wollen wir bearbeiten?
+- Was wäre ein guter Startinhalt?
 - Welche Werte sind uns wichtig?
 
 ---
